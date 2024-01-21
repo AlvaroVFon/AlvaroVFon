@@ -16,7 +16,7 @@ constante la forma de trabajar con este lenguaje.
 
 ## Frontend
 
--  **React:** a pesar de existir multitud de opciones ( Svelte, Vue, Angular...) siempre me ha gustado mucho este framework desarrollado por meta.
+-  [!React]**React:** a pesar de existir multitud de opciones ( Svelte, Vue, Angular...) siempre me ha gustado mucho este framework desarrollado por meta.
 -  **TailwindCSS:** descubrimiento reciente, ha cambiado mi forma de ver los framworks de CSS. Una herramienta muy poderosa que permite estilizar a una velocidad impresionante.
 
 ## Backend
