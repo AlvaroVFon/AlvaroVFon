@@ -16,7 +16,7 @@ constante la forma de trabajar con este lenguaje.
 
 ## Frontend
 
--  [![React]] **React:** a pesar de existir multitud de opciones ( Svelte, Vue, Angular...) siempre me ha gustado mucho este framework desarrollado por meta.
+-  **React:** a pesar de existir multitud de opciones ( Svelte, Vue, Angular...) siempre me ha gustado mucho este framework desarrollado por meta.
 -  **TailwindCSS:** descubrimiento reciente, ha cambiado mi forma de ver los framworks de CSS. Una herramienta muy poderosa que permite estilizar a una velocidad impresionante.
 
 ## Backend
@@ -43,7 +43,7 @@ Iré publicando por aquí los enlaces a los repositorios más interesantes.
 
 Clone de la página de "Disney+" Creado usando **Vite, React, TailwinCSS y TailwindCSS-animated.**
 
-[[!Disney+] (https://github.com/AlvaroVFon/DisneyPlusClone)]
+https://github.com/AlvaroVFon/DisneyPlusClone
 
 
 <!---
