@@ -25,7 +25,8 @@ He iniciado mi formación en este área de forma más reciente, de la mano de un
 
 - **Express:** Es el principal framework que he probado para crear servidores con node.
 - **MySQL:** Principal gestor de bases de datos usado en todos los ejercicios y desarrollos que he hecho.
-- **SQL Server:** Gestor que utilizo en mi actual puesto de trabajo para análisis de datos ( Creación de dashboards ).  
+- **SQL Server:** Gestor que utilizo en mi actual puesto de trabajo para análisis de datos ( Creación de dashboards ).
+- **PHP:**  Principal lenguaje usado durante el segundo curso de "Desarollo de aplicaciones web", conocimientos básicos del lenguaje. 
 
 ## Intereses y aficiones
 
