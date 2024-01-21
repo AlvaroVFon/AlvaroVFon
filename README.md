@@ -36,7 +36,13 @@ He iniciado mi formación en este área de forma más reciente, de la mano de un
 
 # Proyectos
 
-Iré publicando por aquí los enlaces a los repositorios más interesantes, actualmente embarcado en el desarrollo de un clon de la web de **Disney+**
+Iré publicando por aquí los enlaces a los repositorios más interesantes.
+
+## Disney+
+
+Clone de la página de "Disney+" Creado usando **Vite, React, TailwinCSS y TailwindCSS-animated.**
+
+https://github.com/AlvaroVFon/DisneyPlusClone
 
 
 <!---
