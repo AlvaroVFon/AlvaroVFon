@@ -43,7 +43,7 @@ Iré publicando por aquí los enlaces a los repositorios más interesantes.
 
 Clone de la página de "Disney+" Creado usando **Vite, React, TailwinCSS y TailwindCSS-animated.**
 
-https://github.com/AlvaroVFon/DisneyPlusClone
+[!Disney+] (https://github.com/AlvaroVFon/DisneyPlusClone)
 
 
 <!---
