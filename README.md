@@ -30,8 +30,8 @@ He iniciado mi formación en este área de forma más reciente, de la mano de un
 
 ## Intereses y aficiones
 
-- Tras mi trabajo a jornada completa y mis estudiosm no me queda demasiado tiempo libre, me encanta pasar parte de mi tiempo libre entrenando en el parque o el gimnasio 💪,
-  me gusta combinar la calistenia con el levantamiento de pesas.
+- Tras mi trabajo a jornada completa y mis estudios no me queda demasiado tiempo, me gusta invertirlo entrenando en el parque o el gimnasio 💪,
+  combinando calistenia con el levantamiento de pesas.
 - Me encanta jugar videojuegos, especialmente "World of Warcraft" 💻.
 - Ambas aficiones conviven con mi amor por la música, aunque me gustan todos los estilos, siento especial debilidad por el rock 🎸🤟.
 
