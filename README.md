@@ -1,5 +1,5 @@
 # Álvaro Villamarín
-
+---
 ## 🚀 Sobre mí  
 Desarrollador backend junior comprometido con escribir código limpio, mantenible y eficiente. Apasionado por la arquitectura de software y las buenas prácticas, me enfoco en construir APIs robustas y escalables que aporten valor real. Aunque mi especialidad es el backend, mantengo un interés activo en el frontend para ampliar mi visión full-stack y enriquecer mis soluciones.
 ---
@@ -37,3 +37,4 @@ Mi trabajo se centra en diseñar y mantener APIs robustas y escalables, aseguran
 ## 📫 Contacto  
 - **Correo:** alvaro.vfon@gmail.com  
 - **LinkedIn:** [Álvaro Villamarín Fonseca](https://www.linkedin.com/in/%C3%A1lvaro-villamar%C3%ADn-fonseca-9003796a/)  
+---
