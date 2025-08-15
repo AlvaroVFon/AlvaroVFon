@@ -1,7 +1,7 @@
 # Álvaro Villamarín
 
 ## 🚀 Sobre mí  
-Desarrollador backend junior comprometido con escribir código limpio, mantenible y eficiente. Apasionado por la arquitectura de software y las buenas prácticas, me enfoco en construir APIs robustas y escalables que aporten valor real. Aunque mi especialidad es el backend, mantengo un interés activo en el frontend para ampliar mi visión full-stack y enriquecer mis soluciones.
+Desarrollador backend comprometido con escribir código limpio, mantenible y eficiente. Apasionado por la arquitectura de software y las buenas prácticas, me enfoco en construir APIs robustas y escalables que aporten valor real. Aunque mi especialidad es el backend, mantengo un interés activo en el frontend para ampliar mi visión full-stack y enriquecer mis soluciones.
 
 ## 🛠 Tecnologías y herramientas
 - **Lenguajes:** JavaScript (ES6+), TypeScript  
