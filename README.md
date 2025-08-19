@@ -49,3 +49,6 @@ Mi trabajo se centra en diseñar y mantener APIs robustas y escalables, aseguran
 
 ## Actividad
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroVFon&theme=react-dark)
+
+### Views
+![Profile Views](https://komarev.com/ghpvc/?username=AlvaroVFon&style=flat&color=blue)
