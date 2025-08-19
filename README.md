@@ -29,7 +29,12 @@ Me encanta especialmente el sistema de autenticación con token y refresh median
 El proyecto sigue creciendo con tareas planificadas en GitHub, donde también utilizo IA para generar ideas y nuevas funcionalidades, buscando siempre un balance entre utilidad y aprendizaje.  
 
 - [Frontend](https://github.com/AlvaroVFon/workout-app-front)  
-- [Backend](https://github.com/AlvaroVFon/workout-app)  
+- [Backend](https://github.com/AlvaroVFon/workout-app)
+
+### Design-patterns
+Un proyecto que nace para ordenar las ideas sobre patrones de diseño, mostrando tanto el enfoque tradicional (POO) como adaptaciones a la programación funcional.
+Es un repositorio al que acudir para refrescar ideas y asentar conocimientos.
+[Design patterns](https://github.com/AlvaroVFon/design-patterns)
 
 ## 💼 Experiencia  
 Actualmente trabajo como Backend Developer en un proyecto de gran escala enfocado en la gestión de usuarios: un sistema de identity management con una base de datos que supera los 90 millones de usuarios.  
