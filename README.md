@@ -34,7 +34,8 @@ El proyecto sigue creciendo con tareas planificadas en GitHub, donde también ut
 ### Design-patterns
 Un proyecto que nace para ordenar las ideas sobre patrones de diseño, mostrando tanto el enfoque tradicional (POO) como adaptaciones a la programación funcional.
 Es un repositorio al que acudir para refrescar ideas y asentar conocimientos.
-[Design patterns](https://github.com/AlvaroVFon/design-patterns)
+
+- [Design patterns](https://github.com/AlvaroVFon/design-patterns)
 
 ## 💼 Experiencia  
 Actualmente trabajo como Backend Developer en un proyecto de gran escala enfocado en la gestión de usuarios: un sistema de identity management con una base de datos que supera los 90 millones de usuarios.  
