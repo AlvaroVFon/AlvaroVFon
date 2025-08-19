@@ -47,8 +47,5 @@ Mi trabajo se centra en diseñar y mantener APIs robustas y escalables, aseguran
 - **Correo:** alvaro.vfon@gmail.com  
 - **LinkedIn:** [Álvaro Villamarín Fonseca](https://www.linkedin.com/in/%C3%A1lvaro-villamar%C3%ADn-fonseca-9003796a/)  
 
-## Actividad
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroVFon&theme=react-dark)
-
 ### Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroVFon&style=flat&color=blue)
