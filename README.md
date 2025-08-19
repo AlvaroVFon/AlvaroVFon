@@ -1,4 +1,13 @@
 # Álvaro Villamarín
+## 🛠️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-FF0000?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ## 🚀 Sobre mí  
 Desarrollador backend comprometido con escribir código limpio, mantenible y eficiente. Apasionado por la arquitectura de software y las buenas prácticas, me enfoco en construir APIs robustas y escalables que aporten valor real. Aunque mi especialidad es el backend, mantengo un interés activo en el frontend para ampliar mi visión full-stack y enriquecer mis soluciones.
@@ -37,3 +46,6 @@ Mi trabajo se centra en diseñar y mantener APIs robustas y escalables, aseguran
 ## 📫 Contacto  
 - **Correo:** alvaro.vfon@gmail.com  
 - **LinkedIn:** [Álvaro Villamarín Fonseca](https://www.linkedin.com/in/%C3%A1lvaro-villamar%C3%ADn-fonseca-9003796a/)  
+
+## Actividad
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroVFon&theme=react-dark)
