@@ -29,9 +29,3 @@ Microservicio de autenticación en TypeScript con JWT dual-token, registro, logi
 API REST para gestión de entrenamientos (atletas, coaches, ejercicios, rutinas). Stack: TypeScript, Express, MongoDB, Redis, BullMQ, Docker. 625+ tests con >96% de cobertura.
 [Repositorio](https://github.com/AlvaroVFon/workout-app)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroVFon&show_icons=true&theme=dark&hide_title=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroVFon&layout=compact&theme=dark&hide=html,css,javascript" width="330"/>
-</p>
