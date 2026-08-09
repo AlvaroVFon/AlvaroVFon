@@ -24,8 +24,3 @@ jobs:
           base: header, repositories
           base_hireable: no
           repositories_forks: no
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_limit: 3
-          plugin_achievements_display: compact
