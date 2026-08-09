@@ -8,24 +8,32 @@
 
 ---
 
-### 🛠 Stack
+### 🧱 Foundations first
 
-TypeScript · Node.js · NestJS · Express · Go · MongoDB · PostgreSQL · Redis · Docker · BullMQ
+I care about the fundamentals before the tools: design patterns, SOLID, testing, and software architecture. I'd rather understand how things work under the hood than wire libraries together.
 
 ---
 
-### 📌 Proyectos destacados
+### 💼 Professional experience
 
-**🔍 opencode-agent-monitor** · *npm: @alvarovfon/opencode-agent-monitor*
-Plugin de monitorización para OpenCode que traza llamadas LLM, delegaciones de agentes, tool calls y eventos de sesión. Incluye TUI en tiempo real, exportación a JSONL y CLI de métricas.
-→ *1.600+ descargas en la primera semana*
-[Repositorio](https://github.com/AlvaroVFon/opencode-agent-monitor)
+**🟡 Arcos Dorados (McDonald's Latin America)** — *Backend developer*
+User service: registrations, logins, security, and user data at scale. Built duplicate-account merging over a **100M-user base**, wrote production scripts, and shipped features across the service.
+*Stack:* Node.js · MongoDB · Redis · Datadog · AWS CloudWatch
 
-**🔐 auth-service**
-Microservicio de autenticación en TypeScript con JWT dual-token, registro, login y gestión de sesiones.
-[Repositorio](https://github.com/AlvaroVFon/auth-service)
+**⛽ Waylet** — *Backend developer, Loyalty squad*
+Backend development for the loyalty squad: ephemeral testing environments per user story, modernization of the codebase by replacing legacy framework components with in-house solutions, and CI/CD tooling optimizations.
+*Stack:* NestJS · Node.js · TypeScript · GitHub Actions
 
-**🏋️ workout-app**
-API REST para gestión de entrenamientos (atletas, coaches, ejercicios, rutinas). Stack: TypeScript, Express, MongoDB, Redis, BullMQ, Docker. 625+ tests con >96% de cobertura.
-[Repositorio](https://github.com/AlvaroVFon/workout-app)
+---
 
+### 📌 Personal projects
+
+**🏗️ design-patterns**
+GoF patterns in TypeScript (OO + functional), with a roadmap covering SOLID, testing, and software architecture.
+[Repository](https://github.com/AlvaroVFon/design-patterns)
+
+---
+
+### 🛠 Stack
+
+TypeScript · Node.js · NestJS · Express · Go · MongoDB · Redis · Docker
