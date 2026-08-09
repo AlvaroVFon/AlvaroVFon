@@ -34,6 +34,12 @@ GoF patterns in TypeScript (OO + functional), with a roadmap covering SOLID, tes
 
 ---
 
+### 📈 Contributions
+
+![Metrics](/github-metrics.svg)
+
+---
+
 ### 🛠 Stack
 
 TypeScript · Node.js · NestJS · Express · Go · MongoDB · Redis · Docker

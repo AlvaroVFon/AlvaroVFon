@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Europe/Madrid
+
+          # Contribution calendar (includes private + public)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Base stats
+          base: header, repositories
+          base_hireable: no
+          repositories_forks: no
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_limit: 3
+          plugin_achievements_display: compact
