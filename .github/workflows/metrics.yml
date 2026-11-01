@@ -16,11 +16,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Madrid
 
-          # Contribution calendar (includes private + public)
+          # Contribution calendar only (includes private + public).
+          # The README already has its own header, so skip the default base sections.
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # Base stats
-          base: header, repositories
-          base_hireable: no
-          repositories_forks: no
